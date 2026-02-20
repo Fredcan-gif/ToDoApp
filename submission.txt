@@ -1,0 +1,16 @@
+Good evening, sir. Here is my final submission:
+
+Project URL:
+https://gtfkndqkologvhuunwpy.supabase.co
+
+API Key:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd0ZmtuZHFrb2xvZ3ZodXVud3B5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzM3NjIyMzcsImV4cCI6MjA0OTMzODIzN30.l1arFBZwj0qxUZeYsEOlMsP4sVCKVJE8SqUoxSph8Wk
+
+Database Connection String:
+postgresql://postgres:IcdfQI9PtKnYb5RC@db.gtfkndqkologvhuunwpy.supabase.co:5432/postgres
+
+Postman Documentation:
+https://documenter.getpostman.com/view/40281910/2sAYHxp53n
+
+Google Drive Link:
+https://drive.google.com/drive/folders/1wONkYr9edEGuvpCEJMm_ngv5mTsPZcgX?usp=sharing
